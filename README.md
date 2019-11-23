@@ -4,6 +4,8 @@ This is a really awesome website.
 
 Updates made on GitHub before Rebase
 
-## Repository Purpose
-This will conflict with whatever is on the remote repo.
-Local Edit
+Repository Purpose
+This file is just a readme file
+
+##Purpose
+the purpose of this file is to provide examples of how Git and GitHub work together. 
